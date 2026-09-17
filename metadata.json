@@ -1,0 +1,6 @@
+{
+  "name": "XYRUS",
+  "description": "XYRUS is a powerful Discord music bot built for high-quality music, 24/7 playback, and a better server experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
